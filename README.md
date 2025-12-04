@@ -62,22 +62,22 @@ git clone https://github.com/sohitji725/terraform-automated-aws-infrastructure.g
 cd terraform-automated-aws-infrastructure
 Initialize Terraform
 
-bash
+```bash
 Copy code
 terraform init
 Plan the deployment
 
-bash
+```bash
 Copy code
 terraform plan
 Apply the configuration
 
-bash
+```bash
 Copy code
 terraform apply
 Destroy resources (if needed)
 
-bash
+```bash
 Copy code
 terraform destroy
 Learnings & Key Takeaways
